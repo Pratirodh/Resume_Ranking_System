@@ -24,7 +24,7 @@ To successfully execute the project, you will need to have the following require
 3.Start the application: flask run
 
 
-# How web application works:
+# How we use can use web application:
 
 
 1.Register as a candidate or HR manager using the web interface.
