@@ -15,10 +15,26 @@ To successfully execute the project, you will need to have the following require
 # Installation
 
 
-1.Clone the repository to your local machine: git clone Clone https://github.com/Pratirodh/Resume_Ranking_System.git
+1.Clone the repository to your local machine: git clone https://github.com/Pratirodh/Resume_Ranking_System.git
 
 
 2.Install the required dependencies: pip install -r requirements.txt
 
 
 3.Start the application: flask run
+
+
+# How web application works:
+
+
+1.Register as a candidate or HR manager using the web interface.
+
+2.Register as a candidate or HR manager using the web interface.
+
+3.As an HR manager, you can view ranked resumes and verify certificates through the web interface.
+
+4.As a candidate, you can view the status of your certificate verification through the web interface.
+
+
+
+
