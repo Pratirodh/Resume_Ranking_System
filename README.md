@@ -11,3 +11,11 @@ To successfully execute the project, you will need to have the following require
    
    
    2.Set up a mongoDB database in mongoDB cloud. MongoDB is used to store the features extracted from the resume and job description.
+
+#Installation
+1.Clone the repository to your local machine: git clone Clone https://github.com/Pratirodh/Resume_Ranking_System.git
+
+
+2.Install the required dependencies: pip install -r requirements.txt
+
+3.Start the application: flask run
